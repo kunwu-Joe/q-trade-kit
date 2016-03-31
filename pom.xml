@@ -10,6 +10,9 @@
     <version>0.1</version>
     <modules>
         <module>trade-spider</module>
+        <module>trade-web</module>
+        <module>trade-utils</module>
+        <module>trade-data</module>
     </modules>
 
     <properties>
